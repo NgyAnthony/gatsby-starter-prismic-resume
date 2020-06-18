@@ -9,7 +9,7 @@ module.exports = {
     {
       resolve: 'gatsby-source-prismic',
       options: {
-        repositoryName: 'resume-test',
+        repositoryName: 'ngyanthony-resume',
         accessToken: process.env.API_KEY,
       },
     },
